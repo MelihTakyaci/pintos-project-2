@@ -132,5 +132,3 @@ Büyük, karmaşık bir kod tabanında nasıl ilerlenir ve tasarım kararları n
 Bu proje bana özellikle sistem çağrılarında hata yönetimi ve senkronizasyonun ne kadar hassas olduğunu, bu tür bir yazılımda basit bir hatanın bile tüm sistemi etkileyebileceğini öğretti.
 
 \--- SON ---
-
-Bu belge Pintos Project 2’nin tasarım dokümanı gereksinimlerine göre hazırlanmıştır.
