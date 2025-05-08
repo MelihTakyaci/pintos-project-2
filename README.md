@@ -9,15 +9,13 @@
 
 Kullandığımız kaynaklar:
 
-* Pintos dokümantasyonu
-* Stack Overflow tartışmaları
-* AI toolari
-* Online ders notları ve bloglar (örn. Pintos Argument Passing Explained, Pintos System Calls Deep Dive)
-
-
+* https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/pintos/pintos_1.html
+* https://stackoverflow.com/questions/79606787/pilo-stuck-in-endless-loading-loop-pintos-project-2
+* https://www.reddit.com/r/C_Programming/comments/bdemy4/pintos_project_2/
 * https://github.com/st2092/pintos-user-programs/blob/master/README.txt
 * https://github.com/wooseokyourself/pintos_project-2
 * https://github.com/kevink1113/SGCS_CSE4070
+* AI toolari
 
 
   ```
