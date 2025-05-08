@@ -1,7 +1,9 @@
 \---- GRUP ----
 
-FirstName LastName [email@ogr.deu.edu.tr](mailto:email@ogr.deu.edu.tr)
-FirstName LastName [email@ogr.deu.edu.tr](mailto:email@ogr.deu.edu.tr)
+2023280154  Melih Takyacı     melih.takyaci@ogr.deu.edu.tr
+2023280140  Emre Özdemir      emre.ozdemir23@ogr.deu.edu.tr
+2022280128  Eren Önder        eren.onder@ogr.deu.edu.tr
+2022280050  Emir Mutlu        emir.mutlu@ogr.deu.edu.tr
 
 \---- AÇIKLAMA ----
 
@@ -9,8 +11,14 @@ Kullandığımız kaynaklar:
 
 * Pintos dokümantasyonu
 * Stack Overflow tartışmaları
-* Pintos GitHub projeleri
+* AI toolari
 * Online ders notları ve bloglar (örn. Pintos Argument Passing Explained, Pintos System Calls Deep Dive)
+
+
+* https://github.com/st2092/pintos-user-programs/blob/master/README.txt
+* https://github.com/wooseokyourself/pintos_project-2
+* https://github.com/kevink1113/SGCS_CSE4070
+
 
   ```
            ARGÜMAN VERME
@@ -108,7 +116,20 @@ Varsayılan tid\_t → pid\_t eşlemesi kullanıldı, ek karmaşıklık eklenmed
 
 \---- ANKET ----
 
-Opsiyonel, doldurulmadı.
+
+İşletim sistemi çekirdeğinin nasıl çalıştığını ve kullanıcı programlarıyla nasıl etkileşime girdiğini anlama.
+
+Sistem çağrılarının nasıl tasarlandığını, senkronizasyon ve kaynak paylaşımı problemlerini çözmeyi öğrenme.
+
+Bellek yönetimi, yığın düzeni ve bellek erişim güvenliğini uygulamalı öğrenme.
+
+Çekirdek–kullanıcı alanı ayrımı ve güvenlik konularında derinleşme.
+
+Çok iş parçacıklı (multithreaded) ortamda yarış durumu ve deadlock problemlerini çözme.
+
+Büyük, karmaşık bir kod tabanında nasıl ilerlenir ve tasarım kararları nasıl verilir, bunu deneyimleme.
+
+Bu proje bana özellikle sistem çağrılarında hata yönetimi ve senkronizasyonun ne kadar hassas olduğunu, bu tür bir yazılımda basit bir hatanın bile tüm sistemi etkileyebileceğini öğretti.
 
 \--- SON ---
 
